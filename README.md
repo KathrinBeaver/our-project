@@ -5,4 +5,4 @@
 2. Examples - результаты использования класса Evolution
 3. Милованова Е.Е. Папка: Milovanova // ряды слов.txt
 4. Батищев Д.С. Папка: Batischev // 3_ (1).xml
-5. Дюбочкин В.П. Папка: Dyubochkin // file mycod.py
+5. Морозова Ю.В папка Julia
